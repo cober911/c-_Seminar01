@@ -1,0 +1,15 @@
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.csproj.AssemblyReference.cache
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.AssemblyInfoInputs.cache
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.AssemblyInfo.cs
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.csproj.CoreCompileInputs.cache
+F:\GB\C#_Siminar\Lesson\less1.3\bin\Debug\net6.0\less1.3.exe
+F:\GB\C#_Siminar\Lesson\less1.3\bin\Debug\net6.0\less1.3.deps.json
+F:\GB\C#_Siminar\Lesson\less1.3\bin\Debug\net6.0\less1.3.runtimeconfig.json
+F:\GB\C#_Siminar\Lesson\less1.3\bin\Debug\net6.0\less1.3.dll
+F:\GB\C#_Siminar\Lesson\less1.3\bin\Debug\net6.0\less1.3.pdb
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.dll
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\refint\less1.3.dll
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.pdb
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\less1.3.genruntimeconfig.cache
+F:\GB\C#_Siminar\Lesson\less1.3\obj\Debug\net6.0\ref\less1.3.dll
